@@ -1,0 +1,10 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<Advertisements>
+  <Ad>
+    <ImageUrl>images\angle.png</ImageUrl>
+    <Keyword>technology</Keyword>
+    <NavigateUrl>https://www.google.com</NavigateUrl>
+    <AlternateText>Learn more about technology</AlternateText>
+    <Impression>100</Impression>
+  </Ad>
+</Advertisements>
